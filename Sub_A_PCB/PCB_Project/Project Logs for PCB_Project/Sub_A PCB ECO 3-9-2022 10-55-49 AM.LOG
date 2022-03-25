@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LIM_OUT Pin=R1-2
+Removed Pin From Net: NetName=LIM_OUT Pin=R2-2
+Removed Member From Class: ClassName=limiter Member=R1
+Removed Member From Class: ClassName=limiter Member=R2
+Added Pin To Net: NetName=LIM_OUT Pin=P1-1
+Added Pin To Net: NetName=LIM_OUT Pin=P1-2
+Added Room: Name=limiter
+Added Room: Name=Sub-A_BPF

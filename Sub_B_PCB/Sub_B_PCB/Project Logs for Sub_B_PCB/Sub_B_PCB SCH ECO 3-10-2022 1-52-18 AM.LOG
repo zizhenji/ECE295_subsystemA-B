@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=10
+Change Component Designator: OldDesignator=P2 NewDesignator=20
+Change Component Designator: OldDesignator=P3 NewDesignator=19
+Change Component Designator: OldDesignator=P4 NewDesignator=29
+Change Component Designator: OldDesignator=P5 NewDesignator=17
+Change Component Designator: OldDesignator=P6 NewDesignator=27
+Change Component Designator: OldDesignator=P7 NewDesignator=18
+Change Component Designator: OldDesignator=P8 NewDesignator=28
+Change Component Designator: OldDesignator=P9 NewDesignator=AN
+Change Component Designator: OldDesignator=P10 NewDesignator=BP
+Change Component Designator: OldDesignator=P11 NewDesignator=AP
+Change Component Designator: OldDesignator=P12 NewDesignator=2N
+Change Pin Designator/Name:  Old Designator=J3-8 Old Name=GND New Designator =2A New Name=9

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LIM_OUT Pin=R1-2
+Change component parameters: Designator = "R1" ("P1"); Footprint = "AXIAL-0.1-RES"; UniqueID = "\SHPABZNJ" ("\SHPABZNJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin R1-3
+Add Pin To Net: Unknown Pin: Pin R1-4
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Net: Name=NetR1_1
