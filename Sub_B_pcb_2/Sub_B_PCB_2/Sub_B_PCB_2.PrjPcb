@@ -59,7 +59,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -137,104 +137,152 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=..\..\..\..\..\altiumLib\ece295lib\ECE295-Capacitors-SMT.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=..\..\..\..\..\altiumLib\ece295lib\ECE295-Capacitors-TH.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=..\..\..\..\..\altiumLib\ece295lib\ECE295-Other.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\..\..\..\altiumLib\ece295lib\ECE295-Resistors-TH.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Sub_B_PCB_2\Design Rule Check - Sub_B_PCB_2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=.\NC Drill\Sub_B_PCB_2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=NC Drill\Sub_B_PCB_2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=.\Gerber\Sub_B_PCB_2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Gerber\Sub_B_PCB_2.EXTREP
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=Gerber\Sub_B_PCB_2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Gerber\Sub_B_PCB_2.GBO
+DItemRevisionGUID=
+
 [GeneratedDocument6]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GBL
+DocumentPath=Gerber\Sub_B_PCB_2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GBO
+DocumentPath=Gerber\Sub_B_PCB_2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GBP
+DocumentPath=Gerber\Sub_B_PCB_2.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GBS
+DocumentPath=Gerber\Sub_B_PCB_2.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GKO
+DocumentPath=Gerber\Sub_B_PCB_2.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GM13
+DocumentPath=Gerber\Sub_B_PCB_2.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GM15
+DocumentPath=Gerber\Sub_B_PCB_2.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GPB
+DocumentPath=Gerber\Sub_B_PCB_2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GPT
+DocumentPath=Gerber\Sub_B_PCB_2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GTL
+DocumentPath=Gerber\Sub_B_PCB_2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GTO
+DocumentPath=Gerber\Sub_B_PCB_2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=.\Gerber\Sub_B_PCB_2.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=.\NC Drill\Sub_B_PCB_2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
 DocumentPath=NC Drill\Sub_B_PCB_2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=.\Gerber\Sub_B_PCB_2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Gerber\Sub_B_PCB_2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=.\Gerber\Sub_B_PCB_2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument19]
 DocumentPath=Gerber\Sub_B_PCB_2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=.\NC Drill\Sub_B_PCB_2.TXT
+[GeneratedDocument20]
+DocumentPath=NC Drill\Sub_B_PCB_2.TXT
 DItemRevisionGUID=
 
 [Configuration1]
